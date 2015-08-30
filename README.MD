@@ -1,3 +1,4 @@
+老外的即时通信项目，类似国内的TeamTalk，后台用scala，ios用swift
 # Actor Messaging platform
 
 [![Group On Actor](actor-resources/group_on_actor.png)](https://quit.email/join/0d43e6a90d108ad9608514b5c17b76d5b2721d5e2ea51058d6ca43a66befe7f4)
